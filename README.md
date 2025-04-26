@@ -4,7 +4,7 @@ A Next.js-powered tool to visualize and optimize your daily/weekly task allocati
 
 ![Freelance Rate Calculator Screenshot](./public/screenshot.png)
 
-Live Demo: [freelance-rate-calculator-pro.vercel.app](https://freelance-rate-calculator-pro.vercel.app/)
+Live Demo: [time-management-calculator.vercel.app](https://time-management-calculator.vercel.app/)
 
 ---
 
